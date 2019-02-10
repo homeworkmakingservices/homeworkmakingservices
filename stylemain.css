@@ -1,0 +1,24 @@
+.slider h3,
+.slider h5 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5)
+	font-family : sans-serif;
+	font-weight: lighter;
+}
+
+.parallax-container {
+height: 200px;
+}
+
+.parallax img {
+}
+
+.Clients h3 {
+	color: white;
+	font-height : lighter;
+}
+
+section, footer {
+	padding: 20px 0;
+
+}
+
